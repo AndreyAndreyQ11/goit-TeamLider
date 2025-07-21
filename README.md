@@ -93,7 +93,7 @@ Pages, у гілку `gh-pages`, щоразу, коли оновлюється �
 адресою, вказаною на вкладці `Settings` > `Pages` в налаштуваннях репозиторію.
 Наприклад, ось посилання на живу версію для цього репозиторію
 
-[https://goitacademy.github.io/vanilla-app-template/](https://goitacademy.github.io/vanilla-app-template/).
+[https://goitacademy.github.io/goit-TeamLider/](https://goitacademy.github.io/goit-TeamLider/).
 
 Якщо відкриється порожня сторінка, переконайся, що у вкладці `Console` немає
 помилок пов'язаних з неправильними шляхами до CSS та JS файлів проекту
